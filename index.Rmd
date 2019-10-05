@@ -19,13 +19,33 @@ output:
 
 # Apresentação do Curso
 
+
 ## Orientações iniciais
+
+* Para logar nos computadores - Usuário: .\\aluno ; Senha: aluno
+
+* Horário: 13hrs às 17hrs, com intervalo de 30min.
+
+* Pré-requisitos: Noções básicas de planilha (*spreadsheet*) e boa vontade
+
+* Links para as aulas:
+
+> [http://lucasfm108.github.io/Aula_1/#/](http://lucasfm108.github.io/Aula_1/#/)
+
+> [http://lucasfm108.github.io/Aula_2/#/](http://lucasfm108.github.io/Aula_2/#/)
+
+> [http://lucasfm108.github.io/Aula_3/#/](http://lucasfm108.github.io/Aula_3/#/)
+
+> [https://github.com/Lucasfm108](https://github.com/Lucasfm108)
 
 ## Motivação
 
 ## Desenvolvimento do Curso
 
-Fundamentos - manipulação de dados - visualização de dados - Projeto
+&nbsp;
+&nbsp;
+
+<center> <img src="desenvolvimento.png" width = "1000px" height="600px" border: none /> </center>
 
 
 # Por que usar a linguagem R?
